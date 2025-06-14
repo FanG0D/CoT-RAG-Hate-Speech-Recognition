@@ -1,1 +1,1 @@
-# CoT-RAG-Hate-Speech-Recognition-
+# CoT-RAG-Hate-Speech-Recognition
